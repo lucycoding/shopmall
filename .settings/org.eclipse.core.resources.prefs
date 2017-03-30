@@ -1,0 +1,17 @@
+#Mon May 25 13:40:25 CST 2015
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/filterWords.txt=GB2312
+encoding//WebRoot/custom/PwdIndex.js=GBK
+encoding//WebRoot/custom/goodsDetails.js=GBK
+encoding//WebRoot/custom/index.js=GBK
+encoding//WebRoot/custom/personalCenter.js=GBK
+encoding//WebRoot/custom/personalInfoChange.js=GBK
+encoding//WebRoot/custom/register.js=GBK
+encoding//WebRoot/custom/searchDetail.js=GBK
+encoding//WebRoot/custom/submitOrder.js=GBK
+encoding//WebRoot/custom/updatePwd.js=GBK
+encoding//src/com/mall/daoimpl/GoodsDaoImpl.java=UTF-8
+encoding//src/com/mall/servlet/AddGoodsServlet.java=UTF-8
+encoding//src/com/mall/servlet/AdminUpdatePassword.java=UTF-8
+encoding/<project>=UTF-8
+encoding/ShoppingGoods10-1.sql=gbk
